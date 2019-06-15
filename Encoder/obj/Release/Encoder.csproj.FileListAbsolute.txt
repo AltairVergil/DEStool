@@ -1,0 +1,10 @@
+C:\Users\FF\Downloads\Encoder\Encoder\bin\Release\Encoder.exe
+C:\Users\FF\Downloads\Encoder\Encoder\bin\Release\Encoder.pdb
+C:\Users\FF\Downloads\Encoder\Encoder\obj\Release\Encoder.csprojAssemblyReference.cache
+C:\Users\FF\Downloads\Encoder\Encoder\obj\Release\Encoder.CreateRSAKeysForm.resources
+C:\Users\FF\Downloads\Encoder\Encoder\obj\Release\Encoder.MainForm.resources
+C:\Users\FF\Downloads\Encoder\Encoder\obj\Release\Encoder.Properties.Resources.resources
+C:\Users\FF\Downloads\Encoder\Encoder\obj\Release\Encoder.csproj.GenerateResource.cache
+C:\Users\FF\Downloads\Encoder\Encoder\obj\Release\Encoder.csproj.CoreCompileInputs.cache
+C:\Users\FF\Downloads\Encoder\Encoder\obj\Release\Encoder.exe
+C:\Users\FF\Downloads\Encoder\Encoder\obj\Release\Encoder.pdb
